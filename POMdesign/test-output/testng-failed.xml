@@ -8,6 +8,7 @@
           <include name="verifyleavepage"/>
           <include name="pageObjects"/>
           <include name="launchBrowser"/>
+          <include name="tearDownEnviornment"/>
           <include name="login"/>
         </methods>
       </class> <!-- test.LeaveTest -->
